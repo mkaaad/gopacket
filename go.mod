@@ -1,8 +1,9 @@
-module github.com/google/gopacket
+module github.com/mkaaad/gopacket
 
 go 1.12
 
 require (
+	github.com/google/gopacket v1.1.19
 	github.com/vishvananda/netlink v1.1.0
 	github.com/vishvananda/netns v0.0.0-20210104183010-2eb08e3e575f
 	golang.org/x/net v0.0.0-20190620200207-3b0461eec859
